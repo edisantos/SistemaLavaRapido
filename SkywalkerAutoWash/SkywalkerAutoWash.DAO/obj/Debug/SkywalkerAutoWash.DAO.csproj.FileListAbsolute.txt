@@ -1,0 +1,5 @@
+G:\Projetos\Skywalker\SkywalkerAutoWash\SkywalkerAutoWash\SkywalkerAutoWash.DAO\bin\Debug\SkywalkerAutoWash.DAO.dll
+G:\Projetos\Skywalker\SkywalkerAutoWash\SkywalkerAutoWash\SkywalkerAutoWash.DAO\bin\Debug\SkywalkerAutoWash.DAO.pdb
+G:\Projetos\Skywalker\SkywalkerAutoWash\SkywalkerAutoWash\SkywalkerAutoWash.DAO\obj\Debug\SkywalkerAutoWash.DAO.csprojResolveAssemblyReference.cache
+G:\Projetos\Skywalker\SkywalkerAutoWash\SkywalkerAutoWash\SkywalkerAutoWash.DAO\obj\Debug\SkywalkerAutoWash.DAO.dll
+G:\Projetos\Skywalker\SkywalkerAutoWash\SkywalkerAutoWash\SkywalkerAutoWash.DAO\obj\Debug\SkywalkerAutoWash.DAO.pdb
